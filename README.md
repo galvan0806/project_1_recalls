@@ -3,3 +3,4 @@
 ## Team Members
 
 Natalia Galvan
+Manuel Galvan
