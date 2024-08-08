@@ -17,7 +17,7 @@ Description: Recalls are an appropriate alternative method for removing or corre
 
 Analysis will be on:
 
-    Types of products that are recalled - Natalia
+    Which firms have the most recalls? - Natalia
 
     Time it takes to close a recall - Manuel
 
