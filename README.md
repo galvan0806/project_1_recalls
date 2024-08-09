@@ -10,7 +10,6 @@ Ziheng Song
 
 Joe Almendarez
 
-fifth person
 
 # Synopsys
 
@@ -18,10 +17,10 @@ Description: Recalls are an appropriate alternative method for removing or corre
 
 Analysis will be on:
 
-    Types of products that are recalled 
+    Which firms have the most recalls? - Natalia
 
-    Time it takes to close a recall
+    Time it takes to close a recall - Manuel
 
-    Which States are impacted by recalls
+    Which States are impacted by recalls - Joe
 
-    Volume of recalls per product or per State
+    Volume of recalls per product or per State - Ziheng
