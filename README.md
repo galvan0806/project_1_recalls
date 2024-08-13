@@ -46,3 +46,5 @@ A DataFrame is created from the list of recall records.
 The DataFrame is saved to a CSV file named `fda_food_enforcement_data.csv` in the `output_data` directory.
 
 This initial setup allows the team to work with a structured dataset of FDA food enforcement recalls, enabling further analysis on various aspects such as the firms with the most recalls, the time taken to close recalls, the states impacted by recalls, and the volume of recalls per product or state.
+
+![Alt text](https://mcintyrelaw.com/wp-content/uploads/2020/01/drug-recall-classes.png)
