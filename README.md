@@ -11,11 +11,15 @@
 ### Description
 Recalls are an appropriate alternative method for removing or correcting marketed consumer products, their labeling, and/or promotional literature that violate the laws administered by the Food and Drug Administration (FDA). Recalls afford equal consumer protection but generally are more efficient and timely than formal administrative or civil actions, especially when the product has been widely distributed.
 
-### Analysis Focus
-- **Which firms have the most recalls?** - Natalia
-- **Time it takes to close a recall** - Manuel
-- **Which States are impacted by recalls** - Joe
-- **Volume of recalls per product or per State** - Ziheng
+Analysis will be on:
+
+    Which firms have the most recalls? - Natalia
+
+    Time it takes to close a recall - Manuel
+
+    Which States are impacted by recalls - Joe
+
+    Classification Analysis - Ziheng
 
 ## Context of `FDARecall.ipynb`
 The `FDARecall.ipynb` notebook is designed to fetch and analyze FDA food enforcement recall data. Below is a brief overview of the initial steps taken in the notebook:
