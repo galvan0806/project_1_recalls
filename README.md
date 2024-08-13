@@ -48,3 +48,12 @@ The DataFrame is saved to a CSV file named `fda_food_enforcement_data.csv` in th
 This initial setup allows the team to work with a structured dataset of FDA food enforcement recalls, enabling further analysis on various aspects such as the firms with the most recalls, the time taken to close recalls, the states impacted by recalls, and the volume of recalls per product or state.
 
 ![Alt text](https://mcintyrelaw.com/wp-content/uploads/2020/01/drug-recall-classes.png)
+
+> [!References]
+> The list below is the sources used for the analysis on the FDA Food Recalls:
+    - How to change format of data to '%Y%m%d' in Pandas?
+        - https://stackoverflow.com/questions/51310072/how-to-change-format-of-data-to-ymd-in-pandas
+    - 4 Ways to Add Images to GitHub README + 1 Bonus Method
+        - https://cloudinary.com/guides/web-performance/4-ways-to-add-images-to-github-readme-1-bonus-method
+        
+    
