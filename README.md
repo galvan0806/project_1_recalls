@@ -59,5 +59,8 @@ This initial setup allows the team to work with a structured dataset of FDA food
         https://www.pythoncharts.com/matplotlib/rotating-axis-labels/
 ## Code Writing Help with ChatGPT
         https://chatgpt.com/
+## How to Display the counts in the console
+        https://wenku.csdn.net/answer/30a179db68d44945a5990df9f72d29aa?ydreferer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8%3D?ydreferer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8%3D
+
 
     
