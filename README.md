@@ -55,5 +55,9 @@ This initial setup allows the team to work with a structured dataset of FDA food
         https://stackoverflow.com/questions/51310072/how-to-change-format-of-data-to-ymd-in-pandas
 ## 4 Ways to Add Images to GitHub README + 1 Bonus Method
         https://cloudinary.com/guides/web-performance/4-ways-to-add-images-to-github-readme-1-bonus-method
+## Rotating Axis Labels in Matplotlib
+        https://www.pythoncharts.com/matplotlib/rotating-axis-labels/
+## Code Writing Help with ChatGPT
+        https://chatgpt.com/
 
     
